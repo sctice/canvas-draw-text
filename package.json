@@ -1,0 +1,20 @@
+{
+  "name": "spite",
+  "version": "1.0.0",
+  "description": "Generates PDFs for the Spite card game",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^1.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "make-pngs": "bin/make-pngs",
+    "make-cards": "bin/make-cards"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "Shawn Tice",
+  "license": "ISC"
+}
